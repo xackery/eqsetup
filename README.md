@@ -1,0 +1,2 @@
+# eqsetup
+Sets up EQ
